@@ -2,7 +2,7 @@
 # DWI YANUAR PRASETIA
 # 312410107
 # KODE PROGAM
-```
+```python
 data_mahasiswa = {}
 
 def tampilkan_menu():
@@ -91,6 +91,7 @@ while True:
     else:
         print("Pilihan tidak valid. Silakan coba lagi.")
 ```
+
 # uotput progam
 
 <img width="440" alt="UOTPUT NILAI" src="https://github.com/user-attachments/assets/7ef28241-0af0-42dd-9d05-269a0eda1eb1">
